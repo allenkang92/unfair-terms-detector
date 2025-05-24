@@ -1,0 +1,1 @@
+# unfair-terms-detector
